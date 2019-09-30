@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <h1>Beep Booper</h1>
+      <button>Boop</button>
+      <p>You have beeped the booper 0 times.</p>
     </div>
   );
 }
